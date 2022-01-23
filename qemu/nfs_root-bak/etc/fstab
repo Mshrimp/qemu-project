@@ -1,0 +1,6 @@
+proc    /proc    proc    defaults    0    0
+tmpfs    /tmp    tmpfs    default    0    0
+sysfs    /sys    sysfs    default    0    0
+tmpfs    /dev    tmpfs    default    0    0
+var    /dev    tmpfs    default    0    0
+ramfs    /dev    ramfs    default    0    0
